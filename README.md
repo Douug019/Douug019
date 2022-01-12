@@ -21,7 +21,7 @@
   
 <div> 
   <a href="https://www.instagram.com/dooug.viinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/douglas-vinicius-nobrega-13b6a5192lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BH%2FMwO%2BQJQi%2Bqijq7Cf4k2g%3D%3D"   target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/douglas-vinicius-nobrega-13b6a5192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/Douug019/Douug019/blob/output/github-contribution-grid-snake.svg)
  
