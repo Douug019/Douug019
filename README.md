@@ -3,6 +3,7 @@
   - 💻 Estou procurando meu primeiro emprego na área de TI
   - 🧑‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, pela UNIFEOB
   - 🖥️ Tenho habilidades (básicos) em JS, HTML e CSS
+  - 📧 E-mail para contato dougrete2014@outlook.com
   
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -20,10 +21,8 @@
   
 <div> 
   <a href="https://www.instagram.com/dooug.viinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "dougrete2014@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/douglas-vinicius-nobrega-13b6a5192lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BH%2FMwO%2BQJQi%2Bqijq7Cf4k2g%3D%3D"   target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://web.whatsapp.com/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">   </a> 
- 
+  
   ![Snake animation](https://github.com/Douug019/Douug019/blob/output/github-contribution-grid-snake.svg)
  
 </div>
