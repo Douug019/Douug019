@@ -1,6 +1,6 @@
 ### Olá! sou o Douug019 😄
 
-  - 💻 Estou procurando meu primeiro emprego na área de TI
+  - 💻 Estou em busca pelo meu primeiro emprego na área de TI
   - 🧑‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, pela UNIFEOB
   - 🖥️ Tenho habilidades (básicos) em JS, HTML e CSS
   - 📧 E-mail para contato dougrete2014@outlook.com
