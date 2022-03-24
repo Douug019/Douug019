@@ -2,7 +2,7 @@
 
   - 💻 Estou em busca pelo meu primeiro emprego na área de TI
   - 🧑‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas, pela UNIFEOB
-  - 🖥️ Tenho habilidades (básicos) em JS, HTML e CSS
+  - 🖥️ Aprendendo a trabalhar com Python e GoLand
   - 📧 E-mail para contato dougrete2014@outlook.com
   
 <div align="center">
